@@ -23,8 +23,9 @@ class Bio extends React.Component {
           }}
         />
         <p style={{ maxWidth: 310 }}>
-          Personal blog by N. Skini. Inspired by{' '}
-          <a href="https://mobile.twitter.com/dan_abramov">Dan Abramov</a>.
+          Blog de Naoufal MESKINI.
+          <br />
+          Inspiré par <a href="https://overreacted.io/">overreacted</a>.
         </p>
       </div>
     );
