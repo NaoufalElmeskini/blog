@@ -1,5 +1,5 @@
 import React from 'react';
-import profilePic from '../assets/profile-pic.jpg';
+import profilePic from '../assets/arlecchino.jpg';
 import { rhythm } from '../utils/typography';
 
 class Bio extends React.Component {
@@ -23,7 +23,7 @@ class Bio extends React.Component {
           }}
         />
         <p style={{ maxWidth: 310 }}>
-          Blog de Naoufal MESKINI.
+          Blog de Arlecchino.
           <br />
           Inspiré par <a href="https://overreacted.io/">overreacted</a>.
         </p>

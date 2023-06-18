@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Nacrobate',
+    title: 'Arlecchino',
     author: 'N. Skini',
     description:
       'Personal blog, inspired by Dan Abramov. I explain with words and code.',
