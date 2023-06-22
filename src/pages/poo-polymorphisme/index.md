@@ -10,19 +10,29 @@ Le polymorphisme est, sans doute aucun, le plus importants.
 
 #### contexte
 Nous avons un super logiciel, écrit par nos predecesseurs les Sages.
-les sages, ayant le don de dire la vérité, mais le tort de mal la dire, 
-écrivent du code comme ils [complete_me] : mal.
+1. Animal
+2. Vache
 
-dans la semaine que j'ai pris à déchiffrer leur base de code Genese, voici 
-ce que j'ai réussi à déchiffrer : il y a 2 classes comprehensibles 
-1. Oiseau
-2. Poule
+```java
+public class Animal {
+    public void crier() {
+        System.out.println("!!!");
+    }
+}
+```
+
+```java
+public class Vache {
+    public void crier() {
+        System.out.println("mouh");
+    }
+}
+```
+
+
 
 #### US
 Marc, mon PO, m'a fait la remarque que les Poules, bien qu'étant des Oiseaux,
-ils ne [complete_me] pas, ils [complete_me].
-
-quelle est la meilleurs façon d'introduire ce comportement dans Genese ?
 
 ### Definition : polymorphisme 
 
