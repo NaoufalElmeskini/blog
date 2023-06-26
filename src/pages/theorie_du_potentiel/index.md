@@ -12,3 +12,9 @@
 ```
 principe physique - quote
 ```
+
+
+### references
+[potentiality, actuality aristotle](https://en.wikipedia.org/wiki/Potentiality_and_actuality#)
+Aristotles 4 causes
+- attracteurEtrange == aristotle's primeMover ?
